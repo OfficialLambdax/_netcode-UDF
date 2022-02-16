@@ -20,3 +20,6 @@ Addons are
 - the _netcode_P2PCentralized-UDF (unavailable)
 - the _netcode_Groups-UDF (unavailable)
 - the _netcode_Scale-UDF (unavailable)
+
+A all in one libary can be found here
+- https://github.com/OfficialLambdax/_netcode_AllinOne-UDF
