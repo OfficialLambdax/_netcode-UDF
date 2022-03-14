@@ -23,3 +23,6 @@ Addons are
 
 A all in one libary can be found here
 - https://github.com/OfficialLambdax/_netcode_AllinOne-UDF
+
+_netcode requires _storageS-UDF v0.1.5.4 or later
+- https://github.com/OfficialLambdax/_storageS-UDF
